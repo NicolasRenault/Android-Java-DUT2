@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BallusBlastus</string>
+    <string name="jouer">Jouer</string>
+    <string name="difficult">Difficulté</string>
+    <string name="param_tre">Paramètre</string>
+    <string name="game_name">Game</string>
+    <string name="niveau">Niveau :</string>
+    <string name="argent">Argent</string>
+    <string name="clique_ici_pour_jouer">Clique ici pour jouer !</string>
+    <string name="test">test</string>
+    <string name="test_imageview">test imageview avance</string>
+    <string name="test_ball">test throw ball</string>
+    <string name="resultats">Résultat</string>
+    <string name="pseudo">Pseudo</string>
+
+    <string name="score">Score</string>
+    <string name="facile">Facile</string>
+    <string name="difficile">Difficile</string>
+    <string name="normal">Normal</string>
+    <string name="instruction">Pour tirer avec le Canon appuyez sur votre écran</string>
+    <string name="pause">Pause</string>
+    <string name="start">Start</string>
+    <string name="accelerom_tre">Acceleromètre</string>
+
+</resources>
