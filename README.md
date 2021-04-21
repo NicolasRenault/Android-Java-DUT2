@@ -10,4 +10,4 @@ This project was carried out in pairs with the help of Maxime Dacisac who chose 
 
 Ce projet de 2éme année de DUT Informatique avait pour but de découvrir la programmation d’application Android (en Java). Le sujet était au choix mais nous avions une fiche de compétence à suivre.  
 
-Ce projet a été réaliser en binôme avec l'aide de Maxime Dacisac qui à choisis le sujet. 
+Ce projet a été réalisé en binôme avec l'aide de Maxime Dacisac qui à choisis le sujet. 
